@@ -1,8 +1,9 @@
 # live-coronavirus-isolates
 
 - Infectious Bronchitis virus
-- OC43
+- OC43 (1967)
 - 229E
+- NL63 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763395/
 - HKU1 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2953148/
 - SARS human 2003
 - SARS-CoV-2 2020
@@ -14,7 +15,9 @@
 - WIV1 Rs7237-S https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708621/
 - WIV1 Rs4231-S https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708621/
 - RsSHC014 https://www.nature.com/articles/nm.3985
-- Rco319 https://www.biorxiv.org/content/10.1101/2022.05.16.492045v1
-- Rc-os20 https://www.biorxiv.org/content/10.1101/2022.05.16.492045v1
-- Rc-mk2 https://www.biorxiv.org/content/10.1101/2022.05.16.492045v1
-- Rc-kw8 https://www.biorxiv.org/content/10.1101/2022.05.16.492045v1
+- Rco319 https://www.biorxiv.org/content/10.1101/2022.05.16.492045v1 (2022)
+- Rc-os20 https://www.biorxiv.org/content/10.1101/2022.05.16.492045v1 (2022)
+- Rc-mk2 https://www.biorxiv.org/content/10.1101/2022.05.16.492045v1 (2022)
+- Rc-kw8 https://www.biorxiv.org/content/10.1101/2022.05.16.492045v1 (2022)
+- HKU3 SARS-RBD https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2588415/ (2008)
+- BANAL-236 https://www.researchsquare.com/article/rs-871965/v1 (2021)
