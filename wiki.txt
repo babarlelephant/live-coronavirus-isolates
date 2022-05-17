@@ -35,7 +35,7 @@ This article aims at keeping an up-to-date list of [[Coronavirus]] species succe
 * RsSHC014 (synthetic) <ref>https://www.nature.com/articles/nm.3985 (2015)</ref>
 * WIV16 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4810638/ (2016)</ref>
 * WIV1 Rs4874-S synthetic recombinant <ref>Chinese thesis, Reverse Genetic System of Bat SARS-like Coronaviruses and Function of ORFX, Zeng, 2017, translated at https://docs.google.com/document/d/1uZrBG5A720aLGtVI4kPp6nJM7FuuolwO/edit?rtpof=true</ref>
-* WIV1 Rs7237-S and WIV1 Rs4231-S synthetic recombinants <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708621/ (2017)</ref>
+* Rs4874 plus synthetic recombinants WIV1 Rs7237-S and WIV1 Rs4231-S <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708621/ (2017)</ref>
 * SARS-CoV-2 (2020)
 * BANAL-236 <ref>https://www.researchsquare.com/article/rs-871965/v1 (2021)</ref>
 * Pangolin Guangxi P2V <ref>https://linkinghub.elsevier.com/retrieve/pii/S2589004222006216 (2022)</ref> <ref>https://www.nature.com/articles/s41586-020-2169-0 (2020)</ref>
