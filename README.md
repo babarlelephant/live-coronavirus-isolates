@@ -8,7 +8,7 @@
 - NL63 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763395/
 - HKU1 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2953148/
 - Feline coronavirus
-- PDCoV https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7019308/ (2020)
+- PDCoV (porcine deltacoronavirus) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7019308/ (2020)
 - SARS (2003)
 - SARS-CoV-2 (2020)
 - Pangolin Guangxi P2V https://linkinghub.elsevier.com/retrieve/pii/S2589004222006216 (2022) https://www.nature.com/articles/s41586-020-2169-0 (2020)
