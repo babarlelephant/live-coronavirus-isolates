@@ -1,0 +1,55 @@
+
+This article aims at keeping an up-to-date list of [[Coronavirus]] species succesfully isolated and cultured in laboratory, a task which is often challenging. When relevant it shall include a few synthetic recombinant strains as well as some species that were only propagated in laboratory animals.
+
+= Alphacoronavirus =
+
+* 229E
+* TGEV <ref>https://www.atcc.org/products/vr-1740</ref> PRCV <ref>https://pubmed.ncbi.nlm.nih.gov/3018993/</ref>
+* NL63 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763395/</ref>
+* Feline coronavirus
+* PEDV (adding Trypsin to Vero cells) <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC266866/</ref> propagating in piglets <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086830/ (1978)</ref>
+* SADS <ref>https://www.pnas.org/doi/10.1073/pnas.2001046117 (2020)</ref>
+* CCoV-HuPn-2018 (Feline and Canine CoV natural recombinant) <ref>https://onlinelibrary.wiley.com/doi/full/10.1111/irv.12882 (2021)</ref>
+
+= Betacoronavirus =
+
+* HKU5 SARS-S <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3977350/</ref>
+* HKU4 <ref>https://www.nature.com/articles/s41467-020-20458-9 (2021)</ref>
+* MERS <ref> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3749523/ (2013)</ref>
+
+== Embecovirus ==
+
+* Bovine coronavirus <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7088767/</ref>
+* Rabbit HKU14 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3347282/</ref>
+* MHV
+* OC43 (1967)
+* HKU1 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2953148/</ref>
+* Parket rat coronavirus <ref>https://pubmed.ncbi.nlm.nih.gov/2378568/</ref>
+
+== Sarbecovirus ==
+
+* SARS (2003)
+* HKU3 SARS-RBD <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2588415/ (2008)</ref>
+* bat-SL-CoV ZC45 (in suckling rats) <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6135831/</ref>
+* WIV1 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5389864/ (2013) </ref>
+* RsSHC014 (synthetic) <ref>https://www.nature.com/articles/nm.3985 (2015)</ref>
+* WIV16 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4810638/ (2016)</ref>
+* WIV1 Rs4874-S synthetic recombinant <ref>Chinese thesis, Reverse Genetic System of Bat SARS-like Coronaviruses and Function of ORFX, Zeng, 2017, translated at https://docs.google.com/document/d/1uZrBG5A720aLGtVI4kPp6nJM7FuuolwO/edit?rtpof=true</ref>
+* WIV1 Rs7237-S and WIV1 Rs4231-S synthetic recombinants <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708621/ (2017)</ref>
+* SARS-CoV-2 (2020)
+* BANAL-236 <ref>https://www.researchsquare.com/article/rs-871965/v1 (2021)</ref>
+* Pangolin Guangxi P2V <ref>https://linkinghub.elsevier.com/retrieve/pii/S2589004222006216 (2022)</ref> <ref>https://www.nature.com/articles/s41586-020-2169-0 (2020)</ref>
+* Rco319, Rc-os20, Rc-mk2, Rc-kw8 (in Vero with Rc-ACE2)<ref>https://www.biorxiv.org/content/10.1101/2022.05.16.492045v1 (2022)</ref>
+
+= Gammacoronavirus =
+
+* Infectious Bronchitis virus
+
+= Deltacoronavirus =
+
+* PDCoV (porcine deltacoronavirus HKU15) <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7019308/ (2020)</ref>
+
+= References =
+
+[[Category:Animal virology]]
+[[Category:Coronaviridae| ]]
