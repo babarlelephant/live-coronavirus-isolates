@@ -1,55 +1,67 @@
+{{Orphan|date=May 2022}}
 
-This article aims at keeping an up-to-date list of [[Coronavirus]] species succesfully isolated and cultured in laboratory, a task which is often challenging. When relevant it shall include a few synthetic recombinant strains as well as some species that were only propagated in laboratory animals.
+This article aims at keeping an up-to-date list of [[Coronavirus]] strains and subspecies successfully isolated and cultured in laboratory, a task which is often challenging. When relevant it shall include a few synthetic recombinant strains as well as some species that were only propagated in laboratory animals.
 
 = Alphacoronavirus =
 
 * 229E
-* TGEV <ref>https://www.atcc.org/products/vr-1740</ref> PRCV <ref>https://pubmed.ncbi.nlm.nih.gov/3018993/</ref>
-* NL63 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763395/</ref>
+* TGEV <ref>{{Cite web|url=https://www.atcc.org/products/vr-1740|title=Transmissible gastroenteritis virus, porcine &#124; ATCC|website=www.atcc.org}}</ref> PRCV <ref>{{Cite journal|url=https://pubmed.ncbi.nlm.nih.gov/3018993/|title=Isolation of a porcine respiratory, non-enteric coronavirus related to transmissible gastroenteritis|first1=M.|last1=Pensaert|first2=P.|last2=Callebaut|first3=J.|last3=Vergote|date=July 17, 1986|journal=The Veterinary Quarterly|volume=8|issue=3|pages=257–261|via=PubMed|doi=10.1080/01652176.1986.9694050|pmid=3018993}}</ref>
+* NL63 <ref>{{Cite web|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2763395/|title=Morphogenesis of Coronavirus HCoV-NL63 in Cell Culture: A Transmission Electron Microscopic Study - PMC}}</ref>
 * Feline coronavirus
-* PEDV (adding Trypsin to Vero cells) <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC266866/</ref> propagating in piglets <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086830/ (1978)</ref>
+* PEDV (adding Trypsin to Vero cells) <ref>{{Cite web|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC266866/|title=Propagation of the virus of porcine epidemic diarrhea in cell culture. - PMC}}</ref> propagating in piglets <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086830/ (1978)</ref>
+* Canine coronavirus <ref>https://www.atcc.org/products/vr-2068</ref>
 * SADS <ref>https://www.pnas.org/doi/10.1073/pnas.2001046117 (2020)</ref>
-* CCoV-HuPn-2018 (Feline and Canine CoV natural recombinant) <ref>https://onlinelibrary.wiley.com/doi/full/10.1111/irv.12882 (2021)</ref>
+* CCoV-HuPn-2018 (Feline and Canine CoV natural recombinant) <ref>https://onlinelibrary.wiley.com/doi/full/10.1111/irv.12882 (2021)</ref>  including a human case <ref>{{Cite web|url=https://academic.oup.com/crawlprevention/governor?content=%2fcid%2farticle%2f74%2f3%2f446%2f6278597|title=Validate User|website=academic.oup.com}}</ref>
 
 = Betacoronavirus =
 
-* HKU5 SARS-S <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3977350/</ref>
+== Merbecovirus ==
+
+* HKU5 SARS-S <ref>{{Cite web|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3977350/|title=A Mouse Model for Betacoronavirus Subgroup 2c Using a Bat Coronavirus Strain HKU5 Variant - PMC}}</ref>
+* HKU5 and a MERS PDF-2180-S chimera, with trypsin <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7022341/</ref>
 * HKU4 <ref>https://www.nature.com/articles/s41467-020-20458-9 (2021)</ref>
-* MERS <ref> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3749523/ (2013)</ref>
+* MERS <ref>https://www.nejm.org/doi/full/10.1056/nejmoa1211721 (2012)</ref>
 
 == Embecovirus ==
 
-* Bovine coronavirus <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7088767/</ref>
-* Rabbit HKU14 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3347282/</ref>
+* Bovine coronavirus <ref>{{Cite web|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7088767/|title=Cell culture propagation of bovine coronavirus - PMC}}</ref>
+* Rabbit HKU14 <ref>{{Cite web|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3347282/|title=Isolation and Characterization of a Novel Betacoronavirus Subgroup A Coronavirus, Rabbit Coronavirus HKU14, from Domestic Rabbits - PMC}}</ref>
 * MHV
 * OC43 (1967)
-* HKU1 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2953148/</ref>
-* Parket rat coronavirus <ref>https://pubmed.ncbi.nlm.nih.gov/2378568/</ref>
+* HKU1 <ref>{{Cite web|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2953148/|title=Culturing the Unculturable: Human Coronavirus HKU1 Infects, Replicates, and Produces Progeny Virions in Human Ciliated Airway Epithelial Cell Cultures   - PMC}}</ref>
+* Parket rat coronavirus <ref>{{Cite journal|url=https://pubmed.ncbi.nlm.nih.gov/2378568/|title=Characteristics of Parker's rat coronavirus (PRC) replicated in L-2 cells|first1=D. H.|last1=Percy|first2=K. L.|last2=Williams|first3=S. J.|last3=Bond|first4=J. I.|last4=MacInnes|date=May 17, 1990|journal=Archives of Virology|volume=112|issue=3-4|pages=195–202|via=PubMed|doi=10.1007/BF01323164|pmid=2378568|pmc=7087036}}</ref>
+* Dromedary camel HKU23 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4881517/ (2016)</ref>
+* Canine respiratory coronavirus (CRCoV) <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7114246/</ref>
+* Equine coronavirus <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7117184/</ref>
 
 == Sarbecovirus ==
 
 * SARS (2003)
-* HKU3 SARS-RBD <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2588415/ (2008)</ref>
-* bat-SL-CoV ZC45 (in suckling rats) <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6135831/</ref>
-* WIV1 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5389864/ (2013) </ref>
+* HKU3 SARS-RBD synthetic recombinant <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2588415/ (2008)</ref>
+* bat-SL-CoV ZC45 (in suckling rats) <ref>{{Cite web|url=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6135831/|title=Genomic characterization and infectivity of a novel SARS-like coronavirus in Chinese bats - PMC}}</ref>
+* WIV1 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5389864/ (2013)</ref>
 * RsSHC014 (synthetic) <ref>https://www.nature.com/articles/nm.3985 (2015)</ref>
 * WIV16 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4810638/ (2016)</ref>
 * WIV1 Rs4874-S synthetic recombinant <ref>Chinese thesis, Reverse Genetic System of Bat SARS-like Coronaviruses and Function of ORFX, Zeng, 2017, translated at https://docs.google.com/document/d/1uZrBG5A720aLGtVI4kPp6nJM7FuuolwO/edit?rtpof=true</ref>
 * Rs4874 plus synthetic recombinants WIV1 Rs7237-S and WIV1 Rs4231-S <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5708621/ (2017)</ref>
 * SARS-CoV-2 (2020)
 * BANAL-236 <ref>https://www.researchsquare.com/article/rs-871965/v1 (2021)</ref>
-* Pangolin Guangxi P2V <ref>https://linkinghub.elsevier.com/retrieve/pii/S2589004222006216 (2022)</ref> <ref>https://www.nature.com/articles/s41586-020-2169-0 (2020)</ref>
+* Pangolin Guangxi P2V <ref>https://linkinghub.elsevier.com/retrieve/pii/S2589004222006216 (2022)</ref><ref>https://www.nature.com/articles/s41586-020-2169-0 (2020)</ref>
 * Rco319, Rc-os20, Rc-mk2, Rc-kw8 (in Vero with Rc-ACE2)<ref>https://www.biorxiv.org/content/10.1101/2022.05.16.492045v1 (2022)</ref>
 
 = Gammacoronavirus =
 
-* Infectious Bronchitis virus
+* Avian coronavirus (IBV)
 
 = Deltacoronavirus =
 
-* PDCoV (porcine deltacoronavirus HKU15) <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7019308/ (2020)</ref>
+* Porcine deltacoronavirus HKU15 <ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7019308/ (2020)</ref>
+* Parrot coronavirus <ref>https://www.tandfonline.com/doi/pdf/10.1080/03079450600597733</ref>
 
 = References =
+
+==References==
+{{Reflist}}
 
 [[Category:Animal virology]]
 [[Category:Coronaviridae| ]]
