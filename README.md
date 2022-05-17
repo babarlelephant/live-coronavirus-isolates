@@ -1,6 +1,6 @@
 # live-coronavirus-isolates
 
-== Alphacoronavirus ==
+## Alphacoronavirus ##
 
 - 229E
 - TGEV
@@ -10,7 +10,7 @@
 - SADS https://www.pnas.org/doi/10.1073/pnas.2001046117 (2020)
 - CCoV-HuPn-2018 (Feline and Canine CoV recombinant) https://onlinelibrary.wiley.com/doi/full/10.1111/irv.12882 (2021)
 
-== Betacoronavirus ==
+## Betacoronavirus ##
 
 - MHV
 - OC43 (1967)
@@ -19,7 +19,7 @@
 - Rabbit HKU14 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3347282/
 - HKU4 https://www.nature.com/articles/s41467-020-20458-9 (2021)
 
-=== Sarbecovirus ===
+### Sarbecovirus ###
 - SARS (2003)
 - SARS-CoV-2 (2020)
 - Pangolin Guangxi P2V https://linkinghub.elsevier.com/retrieve/pii/S2589004222006216 (2022) https://www.nature.com/articles/s41586-020-2169-0 (2020)
@@ -34,10 +34,10 @@
 - bat-SL-CoV ZC45 (in suckling rats) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6135831/
 - BANAL-236 https://www.researchsquare.com/article/rs-871965/v1 (2021)
 
-== Gammacoronavirus ==
+## Gammacoronavirus ##
 
 - Infectious Bronchitis virus
 
-== Deltacoronavirus ==
+## Deltacoronavirus ##
 
 - PDCoV (porcine deltacoronavirus) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7019308/ (2020)
