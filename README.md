@@ -25,3 +25,4 @@
 - BANAL-236 https://www.researchsquare.com/article/rs-871965/v1 (2021)
 - PEDV (adding Trypsin to Vero cells) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC266866/
 - SADS https://www.pnas.org/doi/10.1073/pnas.2001046117 (2020)
+- HKU5 SARS-S https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3977350/
