@@ -12,12 +12,16 @@
 
 ## Betacoronavirus ##
 
+- HKU5 SARS-S https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3977350/
+- HKU4 https://www.nature.com/articles/s41467-020-20458-9 (2021)
+
+### Embecovirus ###
+
+- Bovine coronavirus https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7088767/
+- Rabbit HKU14 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3347282/
 - MHV
 - OC43 (1967)
 - HKU1 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2953148/
-- HKU5 SARS-S https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3977350/
-- Rabbit HKU14 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3347282/
-- HKU4 https://www.nature.com/articles/s41467-020-20458-9 (2021)
 
 ### Sarbecovirus ###
 - SARS (2003)
