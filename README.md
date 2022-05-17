@@ -25,3 +25,5 @@
 - PEDV (adding Trypsin to Vero cells) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC266866/ propagating in piglets https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7086830/ (1978)
 - SADS https://www.pnas.org/doi/10.1073/pnas.2001046117 (2020)
 - HKU5 SARS-S https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3977350/
+- Rabbit HKU14 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3347282/
+- HKU4 https://www.nature.com/articles/s41467-020-20458-9 (2021)
